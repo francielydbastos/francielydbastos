@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francielydbastos
-- 🌱 I’m currently learning C through CS50!
+- 🌱 I’m currently learning C and java!
 
 <!---
 francielydbastos/francielydbastos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
