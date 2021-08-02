@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francielydbastos
-- 🌱 I’m currently Java!
+- 🌱 I’m currently learning Java!
 
-[![Franciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=francielydbastos)](https://github.com/francielydbastos)
+[![Franciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=francielydbastos)](https://github.com/francielydbastos&theme=synthwave&show_icons=true)
 
 
 <!---
