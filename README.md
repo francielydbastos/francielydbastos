@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @francielydbastos
 - 🌱 I’m currently learning Java!
 
-[![Franciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=francielydbastos)](https://github.com/francielydbastos&theme=tokyonight)
-
+[![Franciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=francielydbastos&theme=tokyonight)](https://github.com/francielydbastos)
 
 <!---
 francielydbastos/francielydbastos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
