@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francielydbastos
-- 🌱 I’m currently studying Java, SpringBoot, Javascript, HTML and CSS!
+- 🌱 I’m currently studying Java, SpringBoot, JavaScript, HTML and CSS!
 
 [![Franciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=francielydbastos&theme=tokyonight&count_private=true)](https://github.com/francielydbastos)
 
